@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-size;
+}
+
+
+.sec{
+	height:500px;
+	background-size:cover;
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../image/food.jpg);
+	background-position:center;
+	background-attachment:fixed;
+	display:flex;
+}
+
+h1{
+	font-size:40px;
+	color:white;
+	text-shadow:black;
+	font-family:lucida handwriting;
+}
+
+p{
+	font-size:35px;
+	color:#00ffff;
+	padding:20px;
+	margin-left:40px;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+}
+
+
